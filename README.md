@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, React JS and PHP**
 
-- 💬 Ask me about **Adobe PS, Adobe AI, HTML, CSS and Javascript**
+- 💬 Ask me about **Adobe PS, Adobe AI, Adobe XD, Figma, HTML, CSS, Tailwind Css, Sass and Javascript**
 
 - 📫 How to reach me **madaaledesigner@gmail.com**
 
